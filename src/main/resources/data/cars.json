@@ -1,0 +1,83 @@
+[
+  {
+    "brand": "Toyota",
+    "model": "Camry",
+    "releaseYear": 2020,
+    "power": 180,
+    "color": "Black",
+    "fuelType": "Petrol",
+    "price": 25000
+  },
+  {
+    "brand": "Toyota",
+    "model": "Corolla",
+    "releaseYear": 2019,
+    "power": 150,
+    "color": "Red",
+    "fuelType": "Petrol",
+    "price": 20000
+  },
+  {
+    "brand": "Toyota",
+    "model": "RAV4",
+    "releaseYear": 2021,
+    "power": 200,
+    "color": "Blue",
+    "fuelType": "Hybrid",
+    "price": 30000
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "releaseYear": 2018,
+    "power": 190,
+    "color": "White",
+    "fuelType": "Petrol",
+    "price": 22000
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "releaseYear": 2020,
+    "power": 170,
+    "color": "Black",
+    "fuelType": "Petrol",
+    "price": 23000
+  },
+  {
+    "brand": "Honda",
+    "model": "CR-V",
+    "releaseYear": 2019,
+    "power": 180,
+    "color": "Silver",
+    "fuelType": "Hybrid",
+    "price": 28000
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Golf",
+    "releaseYear": 2020,
+    "power": 150,
+    "color": "Black",
+    "fuelType": "Petrol",
+    "price": 24000
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Passat",
+    "releaseYear": 2019,
+    "power": 190,
+    "color": "Blue",
+    "fuelType": "Diesel",
+    "price": 28000
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Tiguan",
+    "releaseYear": 2021,
+    "power": 200,
+    "color": "White",
+    "fuelType": "Hybrid",
+    "price": 35000
+  }
+]
