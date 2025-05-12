@@ -24,6 +24,11 @@ Az alkalmazásunk öt funkcionalitással rendelkezik:
 4. **updateCarPrice**: autó árának frissítése
 5. **searchForCar**: keresés az adatbázisban brand, model, color ÉS/VAGY fuelType alapján, felhasználói preferencia szerint szabadon (szeretném látni az autó összes tulajdonságát)
 
+## Projekt futtatása
+```bash
+mvn spring-boot:run
+```
+
 ## Feladat elvégzése és beküldésa
 
 Egészítsd ki a hiányzó annotációkkal/kódrészletekkel a projektet! Ha végeztetek a feladattal szóljatok!
