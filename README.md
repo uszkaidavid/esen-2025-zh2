@@ -26,7 +26,7 @@ Az alkalmazásunk öt funkcionalitással rendelkezik:
 
 ## Projekt futtatása
 ```bash
-mvn spring-boot:run
+mvnw.cmd spring-boot:run
 ```
 
 ## Feladat elvégzése és beküldésa
